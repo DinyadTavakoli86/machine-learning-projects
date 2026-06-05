@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+cache/
+__pycache__/
+.venv/
+mnist_train.csv
+mnist_test.csv
